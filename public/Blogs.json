@@ -6,7 +6,7 @@
       "author": "Jane Doe",
       "image": "https://i.ibb.co.com/ymX3XG8m/jane-doe.jpg",
       "postDate": "2025-04-01",
-      "readingTime": "5 min read",
+      "readingTime": "5 ",
       "hashtags": ["#variables", "#dataTypes", "#programmingBasics"]
     },
     {
@@ -16,7 +16,7 @@
       "author": "John Smith",
       "image": "https://i.ibb.co.com/7NKX654b/john-smith.jpg",
       "postDate": "2025-04-05",
-      "readingTime": "6 min read",
+      "readingTime": "6 ",
       "hashtags": ["#controlFlow", "#ifelse", "#switch"]
     },
     {
@@ -26,7 +26,7 @@
       "author": "Emily Zhang",
       "image": "https://i.ibb.co.com/tPFkPwS5/Emily-Zhang.jpg",
       "postDate": "2025-04-10",
-      "readingTime": "7 min read",
+      "readingTime": "7 ",
       "hashtags": ["#loops", "#forLoop", "#whileLoop"]
     },
     {
@@ -36,7 +36,7 @@
       "author": "Carlos Rivera",
       "image": "https://i.ibb.co.com/Q3d4m6bQ/Carlos-Rivera.jpg",
       "postDate": "2025-04-15",
-      "readingTime": "8 min read",
+      "readingTime": "8 ",
       "hashtags": ["#functions", "#codeReuse", "#modularity"]
     },
     {
@@ -46,7 +46,7 @@
       "author": "Herbert Schildt",
       "image": "https://i.ibb.co.com/Y4Fqcwzr/Herbert-Schildt.jpg",
       "postDate": "2025-04-20",
-      "readingTime": "10 min read",
+      "readingTime": "10 ",
       "hashtags": ["#oop", "#objects", "#programmingFundamentals"]
     }
   ]
