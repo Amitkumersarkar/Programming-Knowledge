@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://example.com/images/variables-cover.jpg",
+      "title": "Understanding Variables and Data Types",
+      "author": "Jane Doe",
+      "image": "https://i.ibb.co.com/ymX3XG8m/jane-doe.jpg",
+      "postDate": "2025-04-01",
+      "readingTime": "5 min read",
+      "hashtags": ["#variables", "#dataTypes", "#programmingBasics"]
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/images/control-flow-cover.jpg",
+      "title": "Mastering Control Flow: If, Else & Switch",
+      "author": "John Smith",
+      "image": "https://i.ibb.co.com/7NKX654b/john-smith.jpg",
+      "postDate": "2025-04-05",
+      "readingTime": "6 min read",
+      "hashtags": ["#controlFlow", "#ifelse", "#switch"]
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/images/loops-cover.jpg",
+      "title": "Loops in Programming: For, While & Do-While",
+      "author": "Emily Zhang",
+      "image": "https://i.ibb.co.com/tPFkPwS5/Emily-Zhang.jpg",
+      "postDate": "2025-04-10",
+      "readingTime": "7 min read",
+      "hashtags": ["#loops", "#forLoop", "#whileLoop"]
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/images/functions-cover.jpg",
+      "title": "Functions: Reusable Blocks of Code",
+      "author": "Carlos Rivera",
+      "image": "https://i.ibb.co.com/Q3d4m6bQ/Carlos-Rivera.jpg",
+      "postDate": "2025-04-15",
+      "readingTime": "8 min read",
+      "hashtags": ["#functions", "#codeReuse", "#modularity"]
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/images/objects-cover.jpg",
+      "title": "Intro to Objects and Object-Oriented Programming",
+      "author": "Herbert Schildt",
+      "image": "https://i.ibb.co.com/Y4Fqcwzr/Herbert-Schildt.jpg",
+      "postDate": "2025-04-20",
+      "readingTime": "10 min read",
+      "hashtags": ["#oop", "#objects", "#programmingFundamentals"]
+    }
+  ]
+  
